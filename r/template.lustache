@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ title }}</title>
+	<link rel="stylesheet" href="{{& stylesheet }}" />
+</head>
+<body>
+<div class="backgrounder"></div>
+{{& header }}
+{{& body }}
+
+<br>
+<div class="foot">
+	<a href="/">Back to Index</a>
+</div>
+</body>
+</html>
