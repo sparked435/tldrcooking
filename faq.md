@@ -1,7 +1,7 @@
 Your Questions Answered
 =======================
 
-# Why?
+### Why?
 
 To get to the information we want (recipes) without clutter.
 
@@ -24,23 +24,23 @@ cool. I want a place to find something to do for dinner, and I don't
 really care if anyone else uses it.
 
 
-# How can I add a recipe?
+### How can I add a recipe?
 
-This website is static. Fork https://github.com/sparked435/tldrcooking
+This website is static. Fork [https://github.com/sparked435/tldrcooking]
 and send me a pull request.
 
 
-# How can I remove a recipe?
+### How can I remove a recipe?
 
 Cool.
 
 
-# How can I share a recipe on some viral mind-rot social media network?
+### How can I share a recipe on some viral mind-rot social media network?
 
 Copy and paste the URL.
 
 
-# How can I save a recipe I like to find it later?
+### How can I save a recipe I like to find it later?
 
 In ye olden dayse, browsers had this feature called "bookmarks." Now
 get off my lawn.
