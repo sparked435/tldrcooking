@@ -1,7 +1,7 @@
 TL;DR Cooking
 =============
 
-Just recipes. No bullshit.
+Just recipes. No bullshit. [Why?](/faq.md)
 
 ## Condiments
  * [Garlic Yogurt Sauce](/r/garlic-yogurt-sauce.md)
