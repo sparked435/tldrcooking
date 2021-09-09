@@ -9,6 +9,7 @@
 {{& header }}
 {{& body }}
 {{# footer }}
+<br>
 <div class="foot">
 {{& footer }}
 </div>

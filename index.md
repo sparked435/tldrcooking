@@ -14,4 +14,4 @@ Just recipes. No bullshit. [Why?](/faq.md)
 
 ## Mains
  * [Poached Fish](/r/poached-fish.md)
- 
+ * [Beef Potroast with Lentils](/r/beef-lentil-pot-roast.md)

@@ -26,8 +26,9 @@ really care if anyone else uses it.
 
 ### How can I add a recipe?
 
-This website is static. Fork [https://github.com/sparked435/tldrcooking]
-and send me a pull request.
+This website is static. 
+[Fork it on Github](https://github.com/sparked435/tldrcooking) and send 
+me a pull request.
 
 
 ### How can I remove a recipe?
@@ -47,3 +48,5 @@ get off my lawn.
 
 
 [Alright, I get it, let's cook something.](https://tldrcooking.com)
+
+
