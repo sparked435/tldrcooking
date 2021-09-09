@@ -7,12 +7,12 @@
   * 1 tbsp soy sauce
   * 8oz fresh mushrooms (optional)
   * 2-3 tbsp steak seasoning blend:
-   * black pepper
-   * onion powder
-   * cayenne pepper
-   * sage
-   * cumin
-   * parsley flakes
+    * black pepper
+    * onion powder
+    * cayenne pepper
+    * sage
+    * cumin
+    * parsley flakes
 
 Dissolve tomato paste in stock in an Instant Pot, add all other
 ingredients, pressure cook on high for 40 minutes.
