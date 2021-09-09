@@ -1,9 +1,15 @@
 Your Questions Answered
 =======================
 
-### Why?
+### What is this site?
 
-To get to the information we want (recipes) without clutter.
+A collection of recipes, except without any clutter. This site
+has no ratings, no life stories, no reviews, no "share" buttons - just 
+how to make your fucking food. We have both relatives and memories. 
+That's all you get to know - [now on to the pot roast.](/r/beef-lentil-roast.md)
+
+
+### Why?
 
 In the long, long ago of maybe 2005 or so, recipe websites actually
 had, well, recipes on them. Nowadays, recipe websites have lengthy
