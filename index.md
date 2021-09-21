@@ -15,3 +15,4 @@ Just recipes. No bullshit. [Any questions?](/faq.md)
 ## Mains
  * [Poached Fish](/r/poached-fish.md)
  * [Beef Potroast with Lentils](/r/beef-lentil-roast.md)
+ * [InstantPot Chana Dal](/r/instantpot-chana-dal.md)
