@@ -1,12 +1,12 @@
-Your Questions Answered
-=======================
+# Your Questions Answered
 
 ### What is this site?
 
 A collection of recipes, except without any clutter. This site
 has no ratings, no life stories, no reviews, no "share" buttons - just 
 how to make your fucking food. We have both relatives and memories. 
-That's all you get to know - [now on to the pot roast.](/r/beef-lentil-roast.md)
+That's all you get to know.
+[Now on to the pot roast.](/r/beef-lentil-roast.md)
 
 
 ### Why?

@@ -1,3 +1,4 @@
+### Ingredients
 
  * 3/4 cup chana dal 158 grams, also known as split garbanzo beans
  * 1 tomato 140 grams, chopped
@@ -7,10 +8,13 @@
  * 1/4 teaspoon red chili powder/cayenne pepper
  * 1/2 teaspoon garam masala
 
-Optional:
+### Optional Ingredients
+
  * 1 cube frozen ginger
  * large amount of garlic
 
+
+### Procedure
 
 Pressure cook in an instant pot on high for 12 minutes. Allow natural 
 release for at least ten minutes before unsealing.

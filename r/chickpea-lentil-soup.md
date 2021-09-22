@@ -1,3 +1,4 @@
+### Ingredients
 
  * 2 Tbsp olive oil
  * 1 onion large, chopped
@@ -11,12 +12,17 @@
  * 3/4 cup lentils dry
  * 1 28oz crushed tomatoes canned
  * Spice Mixture
-   * 1 tsp Kosher salt
-   * 1/2 tsp turmeric
-   * 1/2 tsp paprika
-   * 1 tsp cumin
-   * 1/4 tsp pepper cracked
-   * 1 dash cinnamon
+ 
+### Spice Mixture Ingredients
+
+ * 1 tsp Kosher salt
+ * 1/2 tsp turmeric
+ * 1/2 tsp paprika
+ * 1 tsp cumin
+ * 1/4 tsp pepper cracked
+ * 1 dash cinnamon
+
+### Procedure
 
 Place all the spices in a small bowl and mix thoroughly.
 

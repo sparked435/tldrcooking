@@ -1,3 +1,4 @@
+### Ingredients
  
  * Olive Oil (about 50% of volume)
  * Red Wine Vinegar (about 50% of volume)
@@ -5,5 +6,7 @@
  * Oregano
  * Other Spices (as desired)
  
+### Procedure
+
 Add all ingredients into a container, shake well, allow to macerate
 for one-two hours.
