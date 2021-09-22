@@ -19,5 +19,5 @@
 Pressure cook in an instant pot on high for 12 minutes. Allow natural 
 release for at least ten minutes before unsealing.
 
-Serve over seasoned rice, and especially with a
-[yogurt sauce.](/r/garlic-yogurt-sauce.md)
+Serve over seasoned rice, and especially with a yogurt sauce.
+[Try this sauce.](/r/garlic-yogurt-sauce.md)

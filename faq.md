@@ -32,9 +32,8 @@ really care if anyone else uses it.
 
 ### How can I add a recipe?
 
-This website is static. 
-[Fork it on Github](https://github.com/sparked435/tldrcooking) and send 
-me a pull request.
+This website is static, using subset of CommonMark. Send a pull request.
+[Fork this on Github](https://github.com/sparked435/tldrcooking)
 
 
 ### How can I remove a recipe?
